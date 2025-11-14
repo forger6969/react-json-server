@@ -1,0 +1,23 @@
+{
+  "name": "uzum-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001 --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forger6969/react-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forger6969/react-json-server/issues"
+  },
+  "homepage": "https://github.com/forger6969/react-json-server#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
