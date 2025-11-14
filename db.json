@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": "6f47",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Iphone 17 PRO MAX",
+      "name_ru": "Iphine 17 PRO MAX",
+      "price": 1500,
+      "image_url": "https://macbro.uz/cdn/shop/files/iphone_17_pro_max_cosmic_orange_1.jpg?v=1757932690"
+    },
+    {
+      "id": "f604",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Airpods MAX naushniki",
+      "name_ru": "Наушники Airpods MAX",
+      "price": 270,
+      "image_url": "https://castore.uz/upload/iblock/0fc/ao7pgcup2xu3r1us46m033z0egthpn0i/besprovodnye-naushniki-apple-airpods-max-space-silver-2.webp"
+    },
+    {
+      "id": "7851",
+      "category_uz": "Bolalar",
+      "category_ru": "Детские",
+      "name_uz": "Pikachu oyinchogi",
+      "name_ru": "Пикачу плюшевая игрушка",
+      "price": 13,
+      "image_url": "https://content1.rozetka.com.ua/goods/images/big/279736302.png"
+    },
+    {
+      "id": "f4e3",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Microsoft Surface Laptop 7 Price in BD",
+      "name_ru": "Ноутбук Microsoft Surface Laptop 7 BD",
+      "price": 1200,
+      "image_url": "https://mcsolution.com.bd/wp-content/uploads/2024/07/Microsoft-surface-laptop-7-Dune-7th-Edition-a-Copilot-PC-for-Business-Snapdragon%C2%AE-X-Plus-10-Core-Snapdragon%C2%AE-X-Elite-12-Core-Qualcomm%C2%AE-Adreno%E2%84%A2-GPU-price-in-Bangladesh-MC-Solution-BD.webp"
+    },
+    {
+      "id": "cb40",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Apple iPad Pro 12.9-inch M2 Wi-fi 512GB",
+      "name_ru": "Планшет Apple iPad Pro 12.9-inch M2 Wi-fi 512GB",
+      "price": 1489,
+      "image_url": "https://maxcom.uz/storage/product/SloylFhAlqTSpmJ4gzw6D3Qx9lWZYDWVVpeZNfCj.png"
+    },
+    {
+      "id": "e2d8",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Aqilli soatlar Xiaomi Watch S1",
+      "name_ru": "Умные часы Xiaomi Watch S1",
+      "price": 230,
+      "image_url": "https://minapi.beemarket.uz/prod-media/productImages/1719218495hQCWzbbg6FXG.webp"
+    },
+    {
+      "id": "3696",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "Powerbank Baseus 20000 mAh",
+      "name_ru": "Powerbank Baseus 20000 mAh",
+      "price": 34.5,
+      "image_url": "https://dl.bs365.uz/storage/products/25670/HWJbzjQYmxPJzBgnw08B.jpg"
+    },
+    {
+      "id": "faff",
+      "category_uz": "Elektronika",
+      "category_ru": "Электроника",
+      "name_uz": "samsung galaxy s25 ultra ",
+      "name_ru": "Телефон samsung galaxy s25 ultra",
+      "price": 1293,
+      "image_url": "https://castore.uz/upload/iblock/f8f/am33tjbfxhp0iz5hpc6kbxh6ytw9prxu/smartfon-samsung-galaxy-s25-ultra-5g-sm-s928b-ds-256gb-titanium-black.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": "0m3c",
+      "name": "Saidazim",
+      "phone": 991112233,
+      "password": "ForgerPass",
+      "isAdmin": true
+    },
+    {
+      "id": "0m1b",
+      "name": "Aiden",
+      "phone": 934567756,
+      "password": "Aiden456",
+      "isAdmin": true
+    },
+    {
+      "id": "0c1c",
+      "name": "Forger",
+      "phone": 933150342,
+      "password": "Forger123",
+      "isAdmin": true
+    },
+    {
+      "id": "85eb",
+      "name": "Mitsuri",
+      "phone": 990033333,
+      "password": "Mitsuri123",
+      "isAdmin": false
+    }
+  ]
+}
